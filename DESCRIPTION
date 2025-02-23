@@ -1,7 +1,7 @@
 Package: readapra
 Title: Download and Tidy Data from the Australian Prudential Regulation
         Authority
-Version: 0.2.0
+Version: 0.2.1
 Authors@R: 
     person(given = "Jarrod", 
            family = "van der Wal", 
@@ -27,8 +27,8 @@ Imports: cli (>= 3.0.0), dplyr (>= 1.0.0), httr (>= 1.0.0), janitor,
 Depends: R (>= 3.5)
 RoxygenNote: 7.3.2
 NeedsCompilation: no
-Packaged: 2025-01-20 02:01:30 UTC; jarva
+Packaged: 2025-02-23 00:11:03 UTC; jarva
 Author: Jarrod van der Wal [aut, cre, cph]
 Maintainer: Jarrod van der Wal <jarvanderwal@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-01-21 15:50:02 UTC
+Date/Publication: 2025-02-23 00:30:02 UTC
